@@ -58,7 +58,7 @@ Install the following libraries using the **Arduino IDE Library Manager**:
 
 1. Download or clone this repository.
 2. Extract the ZIP file if downloaded.
-3. Open the `esp32-oled-drawing-pad.ino` file from the project folder.
+3. Open the `oled-pad.ino` file from the project folder.
 4. Install the required libraries.
 5. Select your **ESP32** board.
 6. Select the correct **COM Port**.
@@ -72,7 +72,7 @@ Install the following libraries using the **Arduino IDE Library Manager**:
 
 The complete Arduino sketch is available in:
 
-**`esp32-oled-drawing-pad.ino`**
+**`oled-pad.ino`**
 
 ---
 
