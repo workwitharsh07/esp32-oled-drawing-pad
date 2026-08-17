@@ -1,6 +1,6 @@
 # 🎨 ESP32 OLED Drawing Pad
 
-Create drawings directly on a **128×64 SSD1306 OLED display** using an ESP32. This project demonstrates interactive OLED graphics, real-time drawing, cursor movement, and user input with the Arduino framework.
+Create drawings directly on a **128×64 SSD1306 OLED display** using an ESP32. This project demonstrates interactive OLED graphics, real-time drawing, cursor movement, and user input with the ESP32 framework.
 
 ---
 
